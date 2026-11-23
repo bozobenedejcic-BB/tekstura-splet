@@ -1,0 +1,9 @@
+{
+  // Nastavitve za Cloudflare (Workers – statična stran brez kode na strežniku)
+  "name": "tekstura-splet",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "single-page-application"
+  }
+}
